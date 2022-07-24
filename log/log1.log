@@ -1,0 +1,2 @@
+2022-07-21 15:13:03,881 INFO [root] [__init__.py(<module>:5)] - info级别
+2022-07-21 15:13:03,881 ERROR [root] [__init__.py(<module>:6)] - error级别
